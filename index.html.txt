@@ -1,0 +1,23 @@
+ <!doctype html>
+ <html>
+ <head>
+
+   <head>
+      <meta charset="utf-8"/>
+      <title>A P R E N D I E N D O        G I T</title>  
+				<link rel="stylesheet" href="estilos.css">
+   </head>
+  
+<body>
+
+   <body>
+	    <header>
+				<h1>GIT DESDE CERO 0000</h1>
+   
+			</header>
+			
+      
+   </body>
+  
+
+ </html>
