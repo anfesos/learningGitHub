@@ -4,7 +4,7 @@
 
    <head>
       <meta charset="utf-8"/>
-      <title>A P R E N D I E N D O        G I T</title>  
+      <title>A P R E N D I E N D O        G I T DESDE CASA</title>  
 				<link rel="stylesheet" href="estilos.css">
    </head>
   
